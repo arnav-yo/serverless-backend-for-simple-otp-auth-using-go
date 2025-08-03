@@ -1,0 +1,7 @@
+POST http://localhost:8080/verify-otp
+Content-Type: application/json
+
+{
+    "email":"aarav@dayal.org",
+    "otp":"JZL8"
+}
